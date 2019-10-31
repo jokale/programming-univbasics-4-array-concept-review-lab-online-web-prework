@@ -17,7 +17,7 @@ def find_element_index(array, value_to_find)
     p array.index 
     index += 1
   end
-  end 
+  
    
 
 
