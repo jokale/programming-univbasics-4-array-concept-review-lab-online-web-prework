@@ -22,13 +22,6 @@ end
 
 
 def find_max_value(array)
-  max = 5
-    array.length.times do |index|
-   if array[index] < max 
-     max = array[index]
-    end
-  return max 
-  
   end
 
 
